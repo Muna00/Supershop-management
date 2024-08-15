@@ -12,7 +12,7 @@
     <div class="panel">
       <div class="jumbotron text-center">
          <h1>Welcome to <hr> Supershop Management System</h1>
-         <p>Browse around to find out the pages that you can access!</p>
+         <p></p>
       </div>
     </div>
  </div>
